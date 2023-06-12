@@ -1,6 +1,6 @@
 package homework.algo;
 
-public class list {
+public class razvorot {
     Node head;
     Node tail;
 
